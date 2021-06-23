@@ -20,7 +20,7 @@ Requirements for this assignment included:
 The objective of this assignment was to recreate Minard's visualisation of Napolean's Russian Campaign. The dataset for this assignment included three separate tables showing:
 - Longitude, Latitude and City Names.
 - Longitude, Temperature and Dates (of the march home only).
-- Longitude, Latitude, Number of Survivors, Direction of Travel (A = towards attack/R = return journey), Army Divisions.
+- Longitude, Latitude, Number of Survivors, Direction of Travel (A = towards attack/R = return journey) and Army Divisions.
 
 A number of features must be shown in this assignment:
 - The position of the cities and paths of the army through them.
